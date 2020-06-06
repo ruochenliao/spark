@@ -1,0 +1,2 @@
+Spark 基于 Hadoop 1.X 架构思想，采用自己的方式改善 Hadoop 1.x 中的问题
+Spark 计算基于内存，并且基于 Scala 语法开发，所以天生适合迭代式计算
